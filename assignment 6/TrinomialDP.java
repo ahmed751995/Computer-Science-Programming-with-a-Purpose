@@ -1,6 +1,7 @@
 public class TrinomialDP {
 
     // private static long [][] t;
+    
     // Returns the trinomial coefficient T(n, k).
     public static long trinomial(int n, int k) {
 	if (n == 0 && k == 0) return 1;
